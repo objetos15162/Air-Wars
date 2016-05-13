@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShotJugador
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ShotJugador\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
+comment1.params=direction
+comment1.target=ShotJugador(int)
+comment1.text=\r\n\ metodo\ constructor\r\n\ @param\ direction\ es\ un\ entero\ que\ asigna\ la\ direccion\ de\ diparo.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ ShotJugador\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ incrementScore()
+comment3.text=\r\n\ Incrementa\ la\ puntuacion\ del\ jugador\ cuando\ destruye\ un\ enemigo\r\n
+numComments=4

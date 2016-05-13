@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemigo\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
+comment1.params=
+comment1.target=Enemigo()
+comment1.text=\r\n\ En\ el\ metodo\ constructor\ se\ inicializa\ la\ variable\ para\ disparo\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ eliminaObjeto()
+comment3.text=\r\n\ Elimina\ el\ Objeto\ en\ sus\ dos\ opciones\ porque\ lo\ mate\ el\ jugador\ o\ \r\n\ porque\ salga\ del\ area\ de\ juego\r\n
+comment4.params=
+comment4.target=void\ eliminaObjetoBorde()
+comment4.text=\r\n\ Elimina\ el\ objeto\ si\ del\ area\ de\ juego\r\n
+comment5.params=direction
+comment5.target=void\ setShot(int)
+comment5.text=\r\n\ @param\ direction\ indica\ direccion\ de\ disparo\r\n
+numComments=6

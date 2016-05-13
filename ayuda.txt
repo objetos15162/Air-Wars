@@ -1,0 +1,15 @@
+TECLAS CONTROL
+Para mover el jugador usa las teclas de
+control Izquierda & Dercha
+Para Disparar usa la barra espaciadora
+
+
+
+
+
+
+
+
+
+
+Presiona Enter para regrsar.
