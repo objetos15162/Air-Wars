@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Clase\ representa\ la\ imagen\ de\ menu\ y\ en\ ella\ se\ agregan\ sus\ botones\r\n\ de\ opciones\ del\ juego.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ Montiel\r\n\ @version\ 06/05/2016\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Menu.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ agrega\ los\ objetos\ (botones)\ que\ tiene\ el\ menu\ por\ defecto.\r\n\ jugar\ -\ ayuda\ -\ record\ -\ salir\r\n
+comment3.params=
+comment3.target=void\ creaBotones()
+comment3.text=\r\n\ crea\ los\ botones\ del\ menu\r\n
+numComments=4

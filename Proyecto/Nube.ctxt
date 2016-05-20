@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Nube
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nube\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
+comment1.params=
+comment1.target=Nube()
+comment1.text=\r\n\ Metodo\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Nube\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=boolean\ eliminaObjetoTouching()
+comment3.text=\r\n\ @return\ \ regresa\ true\ si\ se\ elemino\ el\ objeto\ si\ el\ jugador\ lo\ toca\r\n
+comment4.params=
+comment4.target=void\ eliminaObjeto()
+comment4.text=\r\n\ Elimina\ el\ objeto\ en\ los\ dos\ casos.\r\n
+numComments=5

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Nave
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nave\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 19/Mayo/2016\r\n
+comment1.params=
+comment1.target=Nave()
+comment1.text=\r\n\ metodo\ construtor\ unicializa\ la\ instancia\ de\ disparo\ en\ false\r\n\ que\ indica\ que\ la\ nave\ no\ esta\ disparando.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Nave\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=boolean\ getIsShot()
+comment3.text=\r\n\ @return\ la\ variable\ para\ saber\ si\ se\ disparo\r\n
+comment4.params=shot
+comment4.target=void\ setIsShot(boolean)
+comment4.text=\r\n\ @return\ cambia\ el\ estado\ de\ disparo\r\n
+numComments=5

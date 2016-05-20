@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Shot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shot\ here.\r\n\ \r\n\ @author\ Sergio\ Abrahma\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
+comment1.params=direction
+comment1.target=Shot(int)
+comment1.text=\r\n\ @parama\ direction\ asigna\ la\ direccion\ de\ disparo\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ mueveShot()
+comment3.text=\r\n\ \ Mueve\ la\ bala\ segun\ su\ direccion\ indicada\r\n
+comment4.params=
+comment4.target=void\ eliminaObjetoBorde()
+comment4.text=\r\n\ Elimina\ el\ objeto\ si\ sale\ del\ area\ de\ juego\r\n
+numComments=5
