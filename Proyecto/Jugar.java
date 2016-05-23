@@ -25,7 +25,7 @@ public class Jugar extends Boton
     {
         // Add your action code here.
         if(super.click()){
-            Mar m = new Nivel1(3,0);
+            Mar m = new Nivel2(3,0);
             Greenfoot.setWorld(m);
         }
         

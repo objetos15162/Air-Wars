@@ -39,7 +39,7 @@ public class Nivel1 extends Mar
             
         }
         
-        if(super.timeAddFinal(75) && !super.getAmbiente()){
+        if(super.timeAddFinal(70) && !super.getAmbiente()){
             super.addLiderEnemigo(250);
             super.setAmbiente(true);
         }

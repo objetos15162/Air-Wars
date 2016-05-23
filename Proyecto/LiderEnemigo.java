@@ -38,7 +38,7 @@ public class LiderEnemigo extends Nave
             setShot(1);
         }*/
         int x1 = Greenfoot.getRandomNumber(50);//75
-        if(x1 == 25){
+        if(x1 == 30){
             setShot(1);
         }
         
