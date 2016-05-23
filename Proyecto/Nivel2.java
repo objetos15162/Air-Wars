@@ -46,12 +46,11 @@ public class Nivel2 extends Mar
         }
         
         if(super.getEnemigoFinal() == 2 ){
-            super.addTextoNivel("Nivel 3",35);
+            super.addTexto("Nivel 3",35,getWidth() / 2,getHeight() / 2);
             Greenfoot.delay(200);
             Mar m = new Nivel3(super.getVidasJugador(),super.getScoreJugador());
             Greenfoot.setWorld(m);
         }
-        
         super.terminaJuego();
         super.scroll();
     }

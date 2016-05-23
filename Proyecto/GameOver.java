@@ -16,7 +16,7 @@ public class GameOver extends World
     public GameOver()
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
-        super(500, 500, 1); 
+        super(500, 500, 1);
     }
     
     @Override
@@ -29,8 +29,8 @@ public class GameOver extends World
      * regresa crea un Objeto de tipo menu y y te regresa al menu principal
      */
     private void regresaMenu()
-    {
-        Greenfoot.delay(150);
-        Greenfoot.setWorld(new Menu());
+    { 
+       Greenfoot.delay(150);
+       Greenfoot.setWorld(new Menu());
     }
 }

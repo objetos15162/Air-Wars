@@ -310,7 +310,7 @@ public class Mar extends World
     public void terminaJuego()
     {
         if(vidas.getValue() == 0){
-            Greenfoot.setWorld(new GameOver());
+            Greenfoot.setWorld(new GameOver()); 
         }
     }
     
@@ -356,11 +356,14 @@ public class Mar extends World
      * el juego
      * @param cadena es el texto que mostrara el objeto
      * @param tamaño es el tamaño de la leta del texto.
+     * @param x coordenada en x
+     * @param y coordenada en y
+     * 
      */
-    public void addTextoNivel(String cadena,int tamañoFont)
+    public void addTexto(String cadena,int tamañoFont,int x, int y)
     {
         Label nivel = new Label(cadena,tamañoFont);
-        addObject(nivel,getWidth()/2,getHeight()/2);
+        addObject(nivel,x,y);
     }
     
 }

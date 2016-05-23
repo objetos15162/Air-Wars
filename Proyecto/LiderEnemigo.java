@@ -20,7 +20,7 @@ public class LiderEnemigo extends Nave
     {
         super();
         x = 50;
-        vida = 45;
+        vida = 30;
         movimiento = false;
         //isShot = false;
     }

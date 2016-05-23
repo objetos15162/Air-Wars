@@ -46,7 +46,10 @@ public class Nivel3 extends Mar
         }
         
         if(super.getEnemigoFinal() == 2 ){
-            super.addTextoNivel("Juego Terminado",35);
+            super.addTexto("Juego Terminado",35,getWidth() / 2, getHeight() / 2);
+            int x = super.getScoreJugador();
+            String cade = ""+x;
+            super.addTexto(cade,35,getWidth() / 2, (getHeight() / 2) + 50);
             Greenfoot.delay(200);
             Menu menu = new Menu();
             Greenfoot.setWorld(menu);

@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Fri May 20 01:43:10 CDT 2016
+#Sun May 22 18:18:16 CDT 2016
 target16.name=Aliado
 dependency35.to=LeeTexto
 editor.swing.0.y=0
@@ -423,7 +423,7 @@ target20.y=670
 target20.x=100
 dependency34.type=UsesDependency
 dependency31.from=Menu
-editor.swing.0.height=700
+editor.swing.0.height=0
 target8.naviview.expanded=true
 target6.showInterface=false
 target15.showInterface=false
@@ -448,7 +448,7 @@ readme.width=47
 target20.width=80
 mainWindow.height=776
 target9.naviview.expanded=true
-editor.swing.0.width=701
+editor.swing.0.width=0
 target5.showInterface=false
 target24.naviview.expanded=false
 target14.showInterface=false
