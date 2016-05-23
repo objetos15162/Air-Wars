@@ -1,10 +1,11 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class GameOver here.
+ * Esta clase tiene la responsabilidad de mostrar una imagen indicando al jugador si ha perdido en el
+ * juego y después dentro de ella misma llama al menú para regresar a las opciones de menú del juego.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Sergio Abraham Galarza Montiel
+ * @version 06/05/2016
  */
 public class GameOver extends World
 {

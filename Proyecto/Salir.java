@@ -1,10 +1,11 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Salir here.
+ * En esta tiene la tarea de cerrar la aplicación, la cual cumple con el método exit (Syste.exit()) del
+ * sistema
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Sergio Abraham Galarza
+ * @version 23/Mayo/2016
  */
 public class Salir extends Boton
 {

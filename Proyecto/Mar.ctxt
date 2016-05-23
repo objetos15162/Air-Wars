@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Mar
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mar\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ es,\ la\ s\u00FAper\ clase\ de\ los\ Niveles\ 1,\ 2\ y\ 3.\ En\ esta\ se\ crean\ las\ instancias\ que\ tendr\u00E1n\ cada\r\n\ nivel,\ y\ los\ m\u00E9todos\ que\ se\ usan\ en\ los\ tres\ niveles.\ Las\ instancias\ utilizadas\ son\ tiempo\ para\ agregar\r\n\ enemigo,\ aliado,\ nube\ radiactiva,\ bonus,\ etc.\ Dentro\ de\ esta\ misma\ se\ crea\ el\ jugador\ por\ lo\ que\ las\r\n\ subclases\ (niveles)\ lo\ contengan\ todas.\ Algunos\ de\ los\ m\u00E9todos\ dentro\ de\ esta\ clase\ son\ para\r\n\ agregar\ los\ Objetos\ al\ mundo\ y\ validar\ los\ tiempos\ de\ los\ Objetos.\r\n\ Tambi\u00E9n\ se\ agregan\ dos\ Objetos\ para\ simular\ el\ Scroll\ y\ llaman\ a\ su\ m\u00E9todo\ de\ movimiento.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
 comment1.params=vidas\ score
 comment1.target=Mar(int,\ int)
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mar.\r\n\ @param\ vidas\ es\ el\ numero\ de\ vidas\ que\ tiene\ el\ jugador\r\n\ se\ le\ pasa\ para\ cuanto\ el\ constructor\ cree\ el\ Objeto\ jugador\r\n\ le\ asigne\ el\ numero\ de\ vidas.\r\n\ @param\ se\ le\ pasa\ el\ score\ que\ lleva\ el\ jugador\ y\ se\ lo\ asigna\r\n\ al\ jugador\ que\ creea\r\n
@@ -53,7 +53,7 @@ comment24.target=int\ getScoreJugador()
 comment24.text=\r\n\ @return\ regresa\ la\ puntuacion(score)\ que\ tiene\ el\ jugador\r\n
 comment25.params=cadena\ tama\u00F1oFont\ x\ y
 comment25.target=void\ addTexto(java.lang.String,\ int,\ int,\ int)
-comment25.text=\r\n\ Este\ metodo\ es\ usado\ para\ agregar\ texto\ al\ nivel\r\n\ Utilizado\ para\ indicar\ cuando\ cambia\ de\ nivel\ y\ cuando\ termina\r\n\ el\ juego\r\n\ @param\ cadena\ es\ el\ texto\ que\ mostrara\ el\ objeto\r\n\ @param\ tama\u00F1o\ es\ el\ tama\u00F1o\ de\ la\ leta\ del\ texto.\r\n\ @param\ x\ coordenada\ en\ x\r\n\ @param\ y\ coordenada\ en\ y\r\n\ \r\n
+comment25.text=\r\n\ Este\ metodo\ es\ usado\ para\ agregar\ texto\ al\ nivel\r\n\ Utilizado\ para\ indicar\ cuando\ cambia\ de\ nivel\ y\ cuando\ termina\r\n\ el\ juego\r\n\ @param\ cadena\ es\ el\ texto\ que\ mostrara\ el\ objeto\r\n\ @param\ tama\u00F1oFont\ es\ el\ tama\u00F1o\ de\ la\ leta\ del\ texto.\r\n\ @param\ x\ coordenada\ en\ x\r\n\ @param\ y\ coordenada\ en\ y\r\n\ \r\n
 comment3.params=
 comment3.target=void\ prepare()
 comment3.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n

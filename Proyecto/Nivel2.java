@@ -1,7 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Nivel2 here.
+ * Estas clases agregan los Objetos del juego basados en ciertos tiempos para cada Objeto, todo esto
+ * implementado con los Métodos de su súper clase (Mar) también valida si el Objeto destruyo a su
+ * enemigo para pasar al siguiente nivel. En caso de terminar el Tercer el juego esta clase te regresa al
+ * menú principal del juego.
  * 
  * @author Sergio Abraham Galarza Montiel
  * @version 16/Mayo/2016

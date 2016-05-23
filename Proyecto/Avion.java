@@ -1,7 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Avion here.
+ *Esta clase tiene la responsabilidad de representar al Objeto Avion (jugador) que es el manejado por
+ *el jugador una de sus responsabilidades es crear el disparo y agregarlo al mundo cuando el jugador
+ *dispare.
  * 
  * @author Sergio Abraham Galarza 
  * @version 30/04/2016

@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Nivel1
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nivel1\ here.\r\n\ \r\n\ @author\ Abraham\ Galarza\ Montiel\ \r\n\ @version\ 16/Mayo/2016\r\n
+comment0.text=\r\n\ Estas\ clases\ agregan\ los\ Objetos\ del\ juego\ basados\ en\ ciertos\ tiempos\ para\ cada\ Objeto,\ todo\ esto\r\n\ implementado\ con\ los\ M\u00E9todos\ de\ su\ s\u00FAper\ clase\ (Mar)\ tambi\u00E9n\ valida\ si\ el\ Objeto\ destruyo\ a\ su\r\n\ enemigo\ para\ pasar\ al\ siguiente\ nivel.\ En\ caso\ de\ terminar\ el\ Tercer\ el\ juego\ esta\ clase\ te\ regresa\ al\ \ \ \r\n\ men\u00FA\ principal\ del\ juego.\r\n\ \r\n\ @author\ Abraham\ Galarza\ Montiel\ \r\n\ @version\ 16/Mayo/2016\r\n
 comment1.params=vidas\ score
 comment1.target=Nivel1(int,\ int)
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nivel1.\r\n\ @param\ vidas\ se\ le\ pasa\ el\ numero\ de\ vidas\ actuales\ al\ nivel\r\n\ @param\ score\ se\ le\ pasa\ la\ puntuacion\ actual\ al\ jugador\r\n

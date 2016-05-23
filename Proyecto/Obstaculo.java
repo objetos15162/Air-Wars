@@ -1,7 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Obstaculo here.
+ *Esta clase es la super clase para los Objetos implementados como Obstáculos. Tiene dos métodos,
+ *uno para el movimiento del objeto y otro para eliminar el objeto del mundo si lo sale del área de
+ *juego.
  * 
  * @author Sergio Abraham Galarza
  * @version 03/Mayo/2016

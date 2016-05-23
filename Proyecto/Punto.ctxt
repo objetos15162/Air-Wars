@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Punto
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Punto\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n\ \r\n
+comment0.text=\r\n\ Esta\ clase\ tiene\ la\ reposabilidad\ de\ mover\ el\ Objeto\ de\ la\ parte\ superior\ a\ la\ inferior\ al\ igual\ que\r\n\ eliminarlo\ del\ mundo\ si\ sale\ del\ \u00E1rea\ de\ juego.\ Act\u00FAa\ como\ punto\ extra\ en\ el\ juego.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n\ \r\n
 comment1.params=
 comment1.target=Punto()
 comment1.text=\r\n\ Metodo\ Constructor\r\n

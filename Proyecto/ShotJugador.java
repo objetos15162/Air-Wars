@@ -1,7 +1,8 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class ShotJugador here.
+ * Esta clase es usada para cuando el enemigo dispara se crea un Objeto de este tipo que se mueve de
+ * la parte inferior a la superior.
  * 
  * @author Sergio Abraham Galarza
  * @version 30/04/2016

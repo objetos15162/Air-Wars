@@ -1,8 +1,8 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Clase representa la imagen de menu y en ella se agregan sus botones
- * de opciones del juego.
+ * Esta clase es responsable de mostrar la imagen de menú principal y agregar los botones que
+ * contiene el menú, los cuales son: El botón jugar, Ayuda, Créditos y Salir.
  * 
  * @author Sergio Abraham Galarza Montiel
  * @version 06/05/2016

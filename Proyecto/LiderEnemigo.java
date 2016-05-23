@@ -1,7 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class LiderEnemigo here.
+ * Esta clase tiene la responsabilidad de representar al Objeto enemigo que se mueve de izquierda a
+ * derecha en la coordenada que fue agregado este objeto, también su reposabilidad es crear un
+ * disparo y agregarlo al mundo. Este disparo es generado aleatoriamente por la clase.
  * 
  * @author (your name) 
  * @version (a version number or a date)

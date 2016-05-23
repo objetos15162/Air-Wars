@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Background
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Background\ here.\r\n\ \r\n\ @author\ Kavin\ Rowan\ modificado\ por\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ es\ usada\ para\ el\ scroll\ del\ juego\ la\ cual\ tiene\ una\ imagen\ que\ es\ centrada\ tanto\ en\ x\ como\r\n\ en\ y\ del\ \u00E1rea\ de\ juego.\ La\ imagen\ es\ usada\ como\ un\ Objeto\ que\ se\ mueve\ de\ la\ parte\ superior\ a\ la\r\n\ parte\ inferior\ de\ la\ pantalla.\ Para\ hacer\ la\ simulaci\u00F3n\ del\ scroll\ en\ el\ Mundo\ se\ agregan\ dos\ Objetos\r\n\ de\ este\ tipo,\ una\ imagen\ es\ centrada\ y\ la\ segunda\ imagen\ esta\ por\ la\ parte\ superior\ del\ \u00E1rea\ del\r\njuego\ (esta\ no\ es\ visible\ por\ primera\ vez)\ y\ entonces\ estas\ dos\ im\u00E1genes\ se\ mueven\ una\ detr\u00E1s\ de\r\notra.\r\n\ \r\n\ @author\ Kavin\ Rowan\ modificado\ por\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
 comment1.params=
 comment1.target=Background()
 comment1.text=\r\n\ Metodo\ constructor\r\n

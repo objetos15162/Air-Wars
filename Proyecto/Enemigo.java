@@ -1,7 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Enemigo here.
+ * Esta clase tiene la responsabilidad de representar al Objeto enemigo que se mueve de la parte
+ * superior a la inferior, también su reposabilidad es crear un disparo y agregarlo al mundo. Este
+ * disparo es generado aleatoriamente por la clase.
  * 
  * @author Sergio Abraham Galarza 
  * @version 30/04/2016

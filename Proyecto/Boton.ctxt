@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Boton
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Boton\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ Montiel\r\n\ @version\ 18/Mayo/2016\r\n
+comment0.text=\r\n\ Esta\ es\ una\ clase\ padre\ para\ todo\ los\ Botones\ de\ Jugar,\ Ayuda,\ Creditos\ y\ Salir\ esta\ clase\ solo\ tiene\r\n\ un\ m\u00E9todo\ que\ su\ tarea\ es\ validar\ si\ se\ clickea\ en\ dichos\ Objetos.\ Regresa\ un\ true\ indicando\ que\ se\r\n\ ha\ seleccionado\ el\ bot\u00F3n.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ Montiel\r\n\ @version\ 18/Mayo/2016\r\n
 comment1.params=
 comment1.target=Boton()
 comment1.text=\r\n\ Metodo\ Constructor\r\n

@@ -1,7 +1,12 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Background here.
+ * Esta clase es usada para el scroll del juego la cual tiene una imagen que es centrada tanto en x como
+ * en y del área de juego. La imagen es usada como un Objeto que se mueve de la parte superior a la
+ * parte inferior de la pantalla. Para hacer la simulación del scroll en el Mundo se agregan dos Objetos
+ * de este tipo, una imagen es centrada y la segunda imagen esta por la parte superior del área del
+ * juego (esta no es visible por primera vez) y entonces estas dos imágenes se mueven una detrás de
+ * otra.
  * 
  * @author Kavin Rowan modificado por Sergio Abraham Galarza
  * @version 30/04/2016

@@ -1,7 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Nave here.
+ * Esta clase tiene la responsabilidad de representar a los objetos que interactúan como jugadores en
+ * el juego tanto jugador controlado como los enemigos que son la computadora. En esta clase se
+ * encuentra la instancia de disparo que es heredada a las subclases de Avion, Enemigo y
+ * LiderEnemigo.
  * 
  * @author Sergio Abraham Galarza
  * @version 19/Mayo/2016

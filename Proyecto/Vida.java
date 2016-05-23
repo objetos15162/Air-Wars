@@ -1,7 +1,8 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Vida here.
+ * Esta clase tiene la reposabilidad de mover el Objeto de la parte superior a la inferior al igual que
+ * eliminarlo del mundo si sale del área de juego. Actúa como una vida extra en el juego.
  * 
  * @author Sergio Abraham Galarza
  * @version 30/04/2016

@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Bonificacion
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bonificaciones\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ tiene\ la\ responsabilidad\ de\ los\ movimientos\ y\ la\ eliminaci\u00F3n\ de\ las\ bonificaciones\ que\r\n\ son\ sus\ subclases\ (Vida\ &\ Punto)\ para\ que\ sus\ subclases\ utilicen\ sus\ m\u00E9todos.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
 comment1.params=
 comment1.target=Bonificacion()
 comment1.text=\r\n\ Metodo\ constructor\r\n

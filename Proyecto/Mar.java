@@ -1,6 +1,11 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
- * Write a description of class Mar here.
+ * Esta clase es, la súper clase de los Niveles 1, 2 y 3. En esta se crean las instancias que tendrán cada
+ * nivel, y los métodos que se usan en los tres niveles. Las instancias utilizadas son tiempo para agregar
+ * enemigo, aliado, nube radiactiva, bonus, etc. Dentro de esta misma se crea el jugador por lo que las
+ * subclases (niveles) lo contengan todas. Algunos de los métodos dentro de esta clase son para
+ * agregar los Objetos al mundo y validar los tiempos de los Objetos.
+ * También se agregan dos Objetos para simular el Scroll y llaman a su método de movimiento.
  * 
  * @author Sergio Abraham Galarza
  * @version 30/04/2016
@@ -355,7 +360,7 @@ public class Mar extends World
      * Utilizado para indicar cuando cambia de nivel y cuando termina
      * el juego
      * @param cadena es el texto que mostrara el objeto
-     * @param tamaño es el tamaño de la leta del texto.
+     * @param tamañoFont es el tamaño de la leta del texto.
      * @param x coordenada en x
      * @param y coordenada en y
      * 

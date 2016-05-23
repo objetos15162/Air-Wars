@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=GameOver
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ GameOver\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Esta\ clase\ tiene\ la\ responsabilidad\ de\ mostrar\ una\ imagen\ indicando\ al\ jugador\ si\ ha\ perdido\ en\ el\r\n\ juego\ y\ despu\u00E9s\ dentro\ de\ ella\ misma\ llama\ al\ men\u00FA\ para\ regresar\ a\ las\ opciones\ de\ men\u00FA\ del\ juego.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ Montiel\r\n\ @version\ 06/05/2016\r\n
 comment1.params=
 comment1.target=GameOver()
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOver.\r\n\ \r\n

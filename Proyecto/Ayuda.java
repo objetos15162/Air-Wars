@@ -1,10 +1,12 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Ayuda here.
+ * En esta clase se crean un Objeto de la Clase tipo LeeTexto pasándole como parámetro (“ayuda”) el
+ * Texto que va leer y mostrar en pantalla. También se le da una imagen a esta clase, que es la imagen
+ * que muestra de fondo cuando agrega el texto.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Sergio Abraham Galarza Montiel 
+ * @version 23/Mayo/2016
  */
 public class Ayuda extends Boton
 {

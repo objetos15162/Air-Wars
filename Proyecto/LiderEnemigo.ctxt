@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=LiderEnemigo
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ LiderEnemigo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Esta\ clase\ tiene\ la\ responsabilidad\ de\ representar\ al\ Objeto\ enemigo\ que\ se\ mueve\ de\ izquierda\ a\r\n\ derecha\ en\ la\ coordenada\ que\ fue\ agregado\ este\ objeto,\ tambi\u00E9n\ su\ reposabilidad\ es\ crear\ un\r\n\ disparo\ y\ agregarlo\ al\ mundo.\ Este\ disparo\ es\ generado\ aleatoriamente\ por\ la\ clase.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=
 comment1.target=LiderEnemigo()
 comment1.text=\r\n\ Metodo\ Constructor\ iniciliza\ la\ variable\ de\ la\ posicion\r\n\ en\ X\ para\ moverse\r\n

@@ -1,7 +1,8 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Nube here.
+ * Esta clase es usada para agregar un objeto nube la cual se mueve de la parte superior hacia la parte
+ * inferior. Si pasa de la parte inferior la se elimina este objeto.
  * 
  * @author Sergio Abraham Galarza 
  * @version 30/04/2016

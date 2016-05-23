@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Nave
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nave\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 19/Mayo/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ tiene\ la\ responsabilidad\ de\ representar\ a\ los\ objetos\ que\ interact\u00FAan\ como\ jugadores\ en\r\n\ el\ juego\ tanto\ jugador\ controlado\ como\ los\ enemigos\ que\ son\ la\ computadora.\ En\ esta\ clase\ se\r\n\ encuentra\ la\ instancia\ de\ disparo\ que\ es\ heredada\ a\ las\ subclases\ de\ Avion,\ Enemigo\ y\r\n\ LiderEnemigo.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 19/Mayo/2016\r\n
 comment1.params=
 comment1.target=Nave()
 comment1.text=\r\n\ metodo\ construtor\ unicializa\ la\ instancia\ de\ disparo\ en\ false\r\n\ que\ indica\ que\ la\ nave\ no\ esta\ disparando.\r\n

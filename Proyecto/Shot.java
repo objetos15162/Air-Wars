@@ -1,7 +1,8 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Shot here.
+ * Esta clase tiene dos instancias que es la velocidad de disparo y la dirección estas instancias se
+ * inicializan en su método constructor. Tiene cuatro métodos que son utilizados por su sus subclases.
  * 
  * @author Sergio Abrahma Galarza 
  * @version 30/04/2016

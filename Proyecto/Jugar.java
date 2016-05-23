@@ -1,10 +1,11 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Jugar here.
+ * En esta clase se llama al método de su súper clase (Boton) si es clickeado crea un mundo De Nivel 1
+ * con tres vidas por defecto.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Sergio Abraham Galarza Montiel
+ * @version 23/Mayo/2016
  */
 public class Jugar extends Boton
 {

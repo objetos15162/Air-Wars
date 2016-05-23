@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Obstaculo
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Obstaculo\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 03/Mayo/2016\r\n
+comment0.text=\r\nEsta\ clase\ es\ la\ super\ clase\ para\ los\ Objetos\ implementados\ como\ Obst\u00E1culos.\ Tiene\ dos\ m\u00E9todos,\r\nuno\ para\ el\ movimiento\ del\ objeto\ y\ otro\ para\ eliminar\ el\ objeto\ del\ mundo\ si\ lo\ sale\ del\ \u00E1rea\ de\r\njuego.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 03/Mayo/2016\r\n
 comment1.params=
 comment1.target=Obstaculo()
 comment1.text=\r\n\ Metodo\ constructor\r\n

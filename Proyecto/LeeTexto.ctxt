@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=LeeTexto
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ AyudaTexto\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ Montiel\r\n\ @version\ 07/05/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ Lee\ dos\ archivos\ de\ texto\ del\ juego,\ los\ dos\ archivos\ que\ lee\ esta\ clase\ son\ los\ archivos\r\n\ para\ mostrar\ la\ ayuda\ y\ los\ cr\u00E9ditos\ (\u201Cayuda.txt\ &\ \u201Ccreditos.txt\u201D).\ La\ Clase\ recibe\ como\ par\u00E1metro\r\n\ una\ cadena\ usada\ para\ establecer\ cu\u00E1l\ de\ los\ dos\ archivos\ leer\u00E1.\ Cuando\ va\ leyendo\ el\ archivo\ para\r\n\ mostrarlo\ en\ pantalla\ se\ crean\ Objetos\ de\ la\ clase\ Label\ y\ se\ agregan\ para\ ser\ visualizados\ en\r\n\ pantalla.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ Montiel\r\n\ @version\ 07/05/2016\r\n
 comment1.params=tipoDeTexto
 comment1.target=LeeTexto(java.lang.String)
 comment1.text=\r\n\ metodo\ constructor\ inicializa\ las\ variables\ para\ leer\ el\ archivo\r\n\ @param\ tipoDeTexto\ se\ le\ pasa\ el\ nombre\ del\ archivo\ que\ leera\ para\r\n\ mostrar\ su\ informacion\ solo\ puede\ ser\ de\ dos\ tipos\r\n

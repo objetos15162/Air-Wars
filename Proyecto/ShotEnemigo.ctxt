@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=ShotEnemigo
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ ShotEnemigo\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
+comment0.text=Esta\ clase\ es\ usada\ para\ cuando\ el\ enemigo\ dispara\ se\ crea\ un\ Objeto\ de\ este\ tipo\ que\ se\ mueve\ de\r\n\ la\ parte\ superior\ a\ la\ inferior.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\r\n\ @version\ 30/04/2016\r\n
 comment1.params=direction
 comment1.target=ShotEnemigo(int)
 comment1.text=\r\n\ Contructor\r\n\ @param\ direction\ es\ un\ entero\ que\ asigna\ la\ direccion\ de\ disparo\r\n

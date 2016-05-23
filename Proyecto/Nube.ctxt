@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Nube
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nube\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ es\ usada\ para\ agregar\ un\ objeto\ nube\ la\ cual\ se\ mueve\ de\ la\ parte\ superior\ hacia\ la\ parte\r\n\ inferior.\ Si\ pasa\ de\ la\ parte\ inferior\ la\ se\ elimina\ este\ objeto.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
 comment1.params=
 comment1.target=Nube()
 comment1.text=\r\n\ Metodo\ Constructor\r\n

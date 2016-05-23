@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Shot
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shot\ here.\r\n\ \r\n\ @author\ Sergio\ Abrahma\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ tiene\ dos\ instancias\ que\ es\ la\ velocidad\ de\ disparo\ y\ la\ direcci\u00F3n\ estas\ instancias\ se\r\n\ inicializan\ en\ su\ m\u00E9todo\ constructor.\ Tiene\ cuatro\ m\u00E9todos\ que\ son\ utilizados\ por\ su\ sus\ subclases.\r\n\ \r\n\ @author\ Sergio\ Abrahma\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
 comment1.params=direction
 comment1.target=Shot(int)
 comment1.text=\r\n\ @parama\ direction\ asigna\ la\ direccion\ de\ disparo\r\n

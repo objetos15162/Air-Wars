@@ -1,7 +1,8 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Bonificaciones here.
+ * Esta clase tiene la responsabilidad de los movimientos y la eliminación de las bonificaciones que
+ * son sus subclases (Vida & Punto) para que sus subclases utilicen sus métodos.
  * 
  * @author Sergio Abraham Galarza
  * @version 30/04/2016

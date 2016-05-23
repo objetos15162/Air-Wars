@@ -1,7 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Boton here.
+ * Esta es una clase padre para todo los Botones de Jugar, Ayuda, Creditos y Salir esta clase solo tiene
+ * un método que su tarea es validar si se clickea en dichos Objetos. Regresa un true indicando que se
+ * ha seleccionado el botón.
  * 
  * @author Sergio Abraham Galarza Montiel
  * @version 18/Mayo/2016

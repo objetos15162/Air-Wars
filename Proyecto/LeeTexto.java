@@ -4,7 +4,11 @@ import java.util.Scanner;
 import java.io.*;
 import java.awt.Color;
 /**
- * Write a description of class AyudaTexto here.
+ * Esta clase Lee dos archivos de texto del juego, los dos archivos que lee esta clase son los archivos
+ * para mostrar la ayuda y los créditos (“ayuda.txt & “creditos.txt”). La Clase recibe como parámetro
+ * una cadena usada para establecer cuál de los dos archivos leerá. Cuando va leyendo el archivo para
+ * mostrarlo en pantalla se crean Objetos de la clase Label y se agregan para ser visualizados en
+ * pantalla.
  * 
  * @author Sergio Abraham Galarza Montiel
  * @version 07/05/2016

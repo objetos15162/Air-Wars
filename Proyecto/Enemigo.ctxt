@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Enemigo
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemigo\ here.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
+comment0.text=\r\n\ Esta\ clase\ tiene\ la\ responsabilidad\ de\ representar\ al\ Objeto\ enemigo\ que\ se\ mueve\ de\ la\ parte\r\n\ superior\ a\ la\ inferior,\ tambi\u00E9n\ su\ reposabilidad\ es\ crear\ un\ disparo\ y\ agregarlo\ al\ mundo.\ Este\r\ndisparo\ es\ generado\ aleatoriamente\ por\ la\ clase.\r\n\ \r\n\ @author\ Sergio\ Abraham\ Galarza\ \r\n\ @version\ 30/04/2016\r\n
 comment1.params=
 comment1.target=Enemigo()
 comment1.text=\r\n\ En\ el\ metodo\ constructor\ se\ inicializa\ la\ variable\ para\ disparo\r\n
